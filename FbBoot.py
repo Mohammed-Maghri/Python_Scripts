@@ -5,7 +5,7 @@ from time import sleep
 import click
 # **********j@gmail.com
 # **********
-# Mohammed Amine Ait Bahcine
+# Mohammed 
 string = input(" Please write The Gmail ....")
 sleep(2)
 passcode = input(" Please Write The Passcode ...")
